@@ -1,0 +1,27 @@
+{
+  "name": "07-node-npm",
+  "version": "0.1.0",
+  "description": "a lab app for working with node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ixnp/07-node-npm.git"
+  },
+  "keywords": [
+    "codefellows",
+    "lab",
+    "301n7"
+  ],
+  "author": "ix",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ixnp/07-node-npm/issues"
+  },
+  "homepage": "https://github.com/ixnp/07-node-npm#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
