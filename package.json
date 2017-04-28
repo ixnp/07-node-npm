@@ -1,0 +1,27 @@
+{
+  "name": "lab07",
+  "version": "0.1.0",
+  "description": "resubmission for lab 07",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ixnp/07-node-npm.git"
+  },
+  "keywords": [
+    "codeFellows",
+    "Lab07"
+  ],
+  "author": "ix",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ixnp/07-node-npm/issues"
+  },
+  "homepage": "https://github.com/ixnp/07-node-npm#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2"
+  }
+}
